@@ -1,3 +1,12 @@
+# Nama Projek
+Penyimpanan Data Buku CRUD
+
+# Tema Yang Di Pilih
+Data Buku
+
+# Author
+Yunan Ardian
+
 # Aplikasi CRUD Data Buku
 
 Aplikasi CRUD sederhana menggunakan:
@@ -37,6 +46,24 @@ File database tersedia pada:
 
 ```bash
 db_buku.sql
+
+# Cara Menjalankan Project
+
+## 1. Pindahkan Folder Project
+
+Pindahkan folder project ke direktori:
+
+```bash
+C:/laragon/www/
+```
+
+Contoh:
+
+```bash
+C:/laragon/www/UTS
+```
+
+---
 
 # Cara Menjalankan Project
 
